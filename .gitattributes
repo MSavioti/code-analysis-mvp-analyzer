@@ -42,3 +42,5 @@ MVP_Example_WebForm/* linguist-detectable=false
 *.txt linguist-detectable=false
 *.h linguist-detectable=false
 *.cc linguist-detectable=false
+*.html linguist-detectable=false
+*.css linguist-detectable=false
